@@ -1,6 +1,8 @@
 # 💫 About Me:
 Short line segment in a non-euclidean spacetime.
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Darshan-AS&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=Visitors) -->
 
 
@@ -53,3 +55,8 @@ Short line segment in a non-euclidean spacetime.
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Haha
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=darshan-as&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Darshan-AS)](https://github.com/LordDashMe/github-contribution-stats/)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Darshan-AS/langs)](https://githubtrends.io)
